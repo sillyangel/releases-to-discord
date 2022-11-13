@@ -1,4 +1,4 @@
-name: Github Releases To Discord
+name: Releases To Discord
 author: Sillyangel
 description: Automatically send a stylized Discord webhook of a GitHub Release description to a specified Discord channel.
 inputs:
